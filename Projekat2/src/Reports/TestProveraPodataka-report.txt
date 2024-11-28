@@ -1,0 +1,15 @@
+26/01/2024 13:48:31
+Ime testa: TestProveraPodataka
+Deskripcija: Automatsko testiranje provera login podataka
+Test successful
+
+29/01/2024 18:30:29
+Ime testa: TestProveraPodataka
+Deskripcija: Automatsko testiranje provera login podataka
+Test successful
+
+29/01/2024 18:36:53
+Ime testa: TestProveraPodataka
+Deskripcija: Automatsko testiranje provera login podataka
+Test successful
+

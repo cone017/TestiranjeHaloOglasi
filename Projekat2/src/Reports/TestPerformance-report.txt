@@ -1,0 +1,15 @@
+26/01/2024 14:23:48
+Ime testa: TestPerformance
+Deskripcija: Prosecno vreme ucitavanja stranica: 1849.4 milisekundi
+Test successful
+
+29/01/2024 18:35:50
+Ime testa: TestPerformance
+Deskripcija: Prosecno vreme ucitavanja pet stranica: 4016.8 milisekundi
+
+Prosecno vreme ucitavanja pocetne stranice: 7651.0 milisekundi
+Prosecno vreme ucitavanja stranice o nama: 4250.0 milisekundi
+Prosecno vreme ucitavanja stranice o nekretninama: 3439.0 milisekundi
+Prosecno vreme ucitvanja stranice o sportu i rekreaciji: 1858.0 milisekundi
+Prosecno vreme ucitavnja stranice o postavljanju oglasa: 2886.0
+Test successful

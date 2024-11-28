@@ -1,0 +1,5 @@
+26/01/2024 14:58:10
+Ime testa: TestRegistracija
+Deskripcija: Automatsko testiranje registracije
+Test successful
+

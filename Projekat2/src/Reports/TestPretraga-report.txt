@@ -1,0 +1,15 @@
+26/01/2024 11:59:32
+Ime testa: TestPretraga
+Deskripcija: Automatsko tesitranje pretrage
+Test successful
+
+29/01/2024 18:25:40
+Ime testa: TestPretraga
+Deskripcija: Automatsko testiranje pretrage
+Test successful
+
+29/01/2024 18:36:12
+Ime testa: TestPretraga
+Deskripcija: Automatsko testiranje pretrage
+Test successful
+

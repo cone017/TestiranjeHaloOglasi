@@ -1,0 +1,5 @@
+26/01/2024 14:23:48
+Ime testa: TestPerformance
+Deskripcija: Prosecno vreme ucitavanja stranica: 1849.4 milisekundi
+Test successful
+
