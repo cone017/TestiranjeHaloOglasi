@@ -11,5 +11,5 @@ Tested functionalities:
 - Search
 - Total number of favorites
 
-Project was entirely done in Java with Selenium functionalities
+Project was entirely done in Java with Selenium implementing.
 
